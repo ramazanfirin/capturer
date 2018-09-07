@@ -10,6 +10,23 @@
   <version>0.3.10</version>
 </dependency>
 
+ <dependency>
+            <groupId>com.innovatrics.iface</groupId>
+            <artifactId>iface-connector-main</artifactId>
+            <version>3.4.0.0</version>
+        </dependency>   
+<dependency>
+            <groupId>com.innovatrics.commons</groupId>
+            <artifactId>sdk-commons-main</artifactId>
+            <version>1.1.7</version>
+        </dependency>
+        
+        <dependency>
+    <groupId>com.sun.jna</groupId>
+    <artifactId>jna</artifactId>
+    <version>4.2.0</version>
+</dependency>
+
 <dependency>
       <groupId>org.openimaj</groupId>
       <artifactId>faces</artifactId>
